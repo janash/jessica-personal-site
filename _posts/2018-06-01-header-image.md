@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: Post with Header Image - Hello World!
 tags: TeXt
 article_header:
   type: cover
